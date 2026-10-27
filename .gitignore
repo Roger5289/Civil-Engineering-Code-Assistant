@@ -1,0 +1,19 @@
+# Personal config — never commit real source paths
+sources.json
+
+# Generated highlighted PDF copies — never commit source material
+_pulled/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor junk
+.vscode/
+.idea/
